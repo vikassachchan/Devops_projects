@@ -3,6 +3,7 @@
 # 1
 Monitoring and auto-healing AWS resource wrt to compliance
 
-To monitoring the aws resource whether any deviation is there from desired state like unecrypted S3 bucket or unused ebs etc. it will mail the same to the users.
+To monitor the aws resource whether any deviation is there from desired state like unecrypted S3 bucket or unused ebs etc. it will mail the same to the users.
 
-![Uploading image.png…]()
+<img width="1080" alt="Screenshot 2024-02-29 at 12 52 55 PM" src="https://github.com/vikassachchan/Devops_projects/assets/39210004/1a3f7d61-3bbd-48c9-8730-f5261af16992">
+
