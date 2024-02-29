@@ -1,4 +1,4 @@
-# Devops_projects
+# Devops AWS projects
 
 # 1
 Monitoring and auto-healing AWS resource wrt to compliance
